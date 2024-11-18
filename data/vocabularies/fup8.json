@@ -1,0 +1,13 @@
+{
+    "vocabulary": {
+        "o:namespace_uri": "https://jardindesconnaissances.univ-paris8.fr/onto/fup8#",
+        "o:prefix": "fup8",
+        "o:label": "Formation Université Paris 8",
+        "o:comment": "Vocabulaire pour gérer les formations à Paris 8"
+    },
+    "strategy": "file",
+    "options": {
+        "file": "fup8.ttl",
+        "format": "turtle"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "vocabulary": {
+        "o:namespace_uri": "https://jardindesconnaissances.univ-paris8.fr/onto/rome#",
+        "o:prefix": "rome",
+        "o:label": "Répertoire Opérationnel des Métiers et des Emplois",
+        "o:comment": "Vocabulaire pour gérer les éléemnts ROME"
+    },
+    "strategy": "file",
+    "options": {
+        "file": "rome.ttl",
+        "format": "turtle"
+    }
+}

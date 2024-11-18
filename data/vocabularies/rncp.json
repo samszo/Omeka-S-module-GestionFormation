@@ -1,0 +1,13 @@
+{
+    "vocabulary": {
+        "o:namespace_uri": "https://jardindesconnaissances.univ-paris8.fr/onto/rncp#",
+        "o:prefix": "rncp",
+        "o:label": "Répertoire National des Certifications Professionnelles",
+        "o:comment": "Vocabulaire pour gérer les fiches et les compétences RNCP"
+    },
+    "strategy": "file",
+    "options": {
+        "file": "rncp.ttl",
+        "format": "turtle"
+    }
+}
